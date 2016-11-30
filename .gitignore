@@ -1,0 +1,2 @@
+*.sqlite3
+first_django_example/__pycache__/*
